@@ -1,0 +1,27 @@
+body{
+	background-color: #dddddd;
+	font-family: segoe ui;
+}
+
+.tos{
+	padding: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 600px;
+	max-height: 200px;
+	border: 2px solid #0d689b;;
+	overflow: hidden;
+}
+
+input[type="button"]{
+	background-color: #0d689b;
+	color: white;
+	padding: 10px 30px;
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+input[type="button"]:hover{
+	cursor: pointer;
+}
